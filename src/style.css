@@ -71,6 +71,10 @@ a:focus {
   max-width: var(--w-grid);
 }
 
+.🍊 {
+  fill: var(--c-white);
+}
+
 .⛪️ {
   margin: var(--s-lg) auto var(--s-xl);
 }
@@ -92,11 +96,11 @@ a:focus {
   list-style: none;
 }
 
-.🥒 {
+.🍅 {
   padding: var(--s-sm) var(--s-xs);
 }
 
-.🥒:not(:last-child)::after {
+.🍅:not(:last-child)::after {
   content: "-";
   padding-left: var(--s-sm);
 }

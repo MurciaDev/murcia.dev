@@ -4,6 +4,10 @@
 
   In alphabetical order:
 
+  Frontend developer: Gabriel Perales Portillo
+  Twitter: @g_perales
+  From: Murcia, Spain
+
   Frontend developer: Jose Manuel Lucas
   Twitter: @jmlweb
   From: Murcia, Spain
@@ -31,6 +35,6 @@
 
 /* SITE */
   Language: Spanish
-  Last update: 2020/04/04
+  Last update: 2022/05/11
   Standards: HTML and vanilla CSS (don't over-engineer for this)
   Software: Visual Studio Code
